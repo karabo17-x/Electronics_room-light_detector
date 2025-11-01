@@ -76,6 +76,9 @@ Want to make it even doper? Try these:
 
 Yo, it's your boy Karabo_Xster! I made this because I got tired of my brother stealing my snacks without warning. Now I get a heads-up every time he approaches! 😎
 
+![Electronics3](https://github.com/user-attachments/assets/77a951d3-63f0-47a7-a652-71f2013d8470)
+
+
 ---
 
 **⭐ If this project made you go "YOOO THAT'S COOL", hit that star button! It makes my developer heart happy!**
